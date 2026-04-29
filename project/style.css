@@ -1,5 +1,7 @@
 body{
     background-color: #201313;
+    color: 
+#FAF9F9;
 }
 .button{
     background-color: rgb(233, 25, 25);
@@ -18,5 +20,4 @@ body{
     width: 500px;
     padding-top: 50px;
     font-style: italic;
-}
 
